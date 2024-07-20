@@ -69,7 +69,6 @@ body {
   }
   
   .banner {
-    background: url('banner.jpg') no-repeat center center;
     background-size: cover;
     padding: 40px 20px;
     text-align: center;
